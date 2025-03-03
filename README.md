@@ -1,5 +1,6 @@
 
 
+
 # 🌌 Realm of Cards - TCG Battle Adventure
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)  ![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen) ![Version](https://img.shields.io/badge/Version-1.0.0-orange) ![Platform](https://img.shields.io/badge/platform-Web3-blueviolet) ![Blockchain](https://img.shields.io/badge/blockchain-Starknet-yellow)
     
@@ -134,11 +135,11 @@ Sharpen your strategy, harness your cards, and embark on an epic journey through
 
 ## 🌐 Launch
 
-The Realm of Cards platform is coming soon! Get ready to step into an exhilarating world of card-based combat where strategy and innovation collide. Prepare for an unforgettable experience:
+The Realm of Cards platform is here! Step into an exhilarating world of card-based combat where strategy and innovation collide. Get ready for an unforgettable experience that will test your skills and ignite your passion:
 
-🔗 Deployment Link: Stay tuned for the official launch!
+🔗 **Deployment Link**: [Realm-of-Cards platform](https://rocs-mu.vercel.app/) – Jump in now and start your journey!
 
-Harness the power of blockchain technology and dive into a mesmerizing universe of digital card battles. Will you rise as a legend and etch your name into the annals of the Realm? Your adventure is almost here – get ready to start soon!
+Harness the power of blockchain technology as you dive into a mesmerizing universe of digital card battles. Build your deck, outsmart your opponents, and rise through the ranks. Will you become a legend and etch your name into the annals of the Realm? Your adventure begins today – join the fight and claim your destiny!
 
 ----------
 
